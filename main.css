@@ -187,3 +187,19 @@ footer{
 .footer__links a{
   margin-bottom: 15px;
 }
+
+@keyframes rotation {
+  0% {
+    transform: rotate(0deg);
+  }
+  50% {
+    transform: rotate(180deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}
+
+.about__sun-image{
+ animation: rotation 10s infinite linear;
+}
