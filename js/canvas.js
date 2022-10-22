@@ -1,4 +1,4 @@
-console.log("Привет, тест!")
+//console.log("Привет, тест!")
 const COLORS = ["255,108,80", "5,117,18", "29,39,57", "67,189,81"];
 const BUBBLE_DENSITY = 100;
 
