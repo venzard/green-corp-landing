@@ -1,4 +1,4 @@
-const INCREASE_NUMBER_ANIMATION_SPEED = 500;
+const INCREASE_NUMBER_ANIMATION_SPEED = 50;
 
 function increaseNumberAnimationStep (i, element, endNumber) {
     if (i <= endNumber) {
